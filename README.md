@@ -36,5 +36,4 @@ yarn run dev
 12. **Before entering The Repository URL in the input, please ensure that it is not too large or not containing too many files**.
 
 ### Screenshots : 
-<img width="539" alt="image" src="https://github.com/devesh-2002/CodeInsight/assets/79015420/1ad878e1-e3d2-470e-90b5-4c90eccf53a0">
-<img width="392" alt="image" src="https://github.com/devesh-2002/CodeInsight/assets/79015420/c8b0a3e2-6217-4bef-aeb4-6981969248ef">
+<img width="410" alt="image" src="https://github.com/devesh-2002/CodeInsight/assets/79015420/f383f37a-b972-45ac-9ee9-c7e288594141">
